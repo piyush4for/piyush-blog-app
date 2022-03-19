@@ -57,7 +57,7 @@ export default function Home(props) {
       <Metatags title="Home Page" description="Get the latest posts on our site" />
 
       <div className="card card-info">
-        <h2>💡BlogPost by Piyush</h2>
+        <h2>💡BlogPost by Piyush and Akhilesh</h2>
       </div>
      
       <PostFeed posts={posts} />
